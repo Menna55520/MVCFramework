@@ -36,3 +36,4 @@ This is an implementation of a mini framework using the MVC (Model-View-Controll
 ## Notes
 - This project is an experiment to understand MVC, so it may have some limitations or minor issues.
 - The routing system is simple and relies on URL parsing to determine the controller and method.
+- Working on reuse this mini framework in projects .
